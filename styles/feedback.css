@@ -1,0 +1,38 @@
+.feedback {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    text-align: center;
+    width: 80%;
+    padding: 64px 64px 64px 64px;
+    background-color: var(--fundo-texto);
+    margin-left: 5em;
+    margin-top: 96px;
+}
+
+.feedback__bloco1 {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.feedback__subtitulo {
+    color: var(--vermelho);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.feedback__titulo {
+    color: var(--gray-900);
+    font-size: 36px;
+}
+
+.feedback__nome {
+    padding-top: 16px;
+    padding-bottom: 10px;
+}
+
+.feedback__descricao {
+    color: var(--cinza);
+    font-size: 14px;
+}

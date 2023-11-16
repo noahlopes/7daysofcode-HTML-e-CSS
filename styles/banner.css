@@ -1,0 +1,62 @@
+.banner {
+    display: flex;
+    flex-direction: column;
+}
+
+.banner__primeiro {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 96px 0 96px 0;
+
+}
+
+.banner__titulo__secundario {
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.banner__titulo {
+    padding: 24px 0 24px 0;
+    color: var(--gray-900);
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.banner__texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza);
+    padding: 0 9em 0 9em; 
+}
+
+.banner__segundo {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    margin-left: 5em;
+    margin-right: 10em;
+    gap: 32px;
+}
+
+.banner__lista__lista {
+    display: flex;
+    flex-direction: column;
+}
+
+.lista__numero {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho)
+}
+
+.lista__titulo {
+    margin-top: 1em;
+    margin-bottom: 0.4em;
+    color: var(--gray-900);
+    font-size: 18px;
+}
+
+.lista__texto {
+    color: var(--cinza);
+    font-weight: 400;
+}
