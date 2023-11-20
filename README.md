@@ -1,5 +1,10 @@
 # OptimusTech #7DaysOfCode
 
-Projeto feito em um desafio, utilizando HTML e CSS.
+Projeto feito no desafio #7DaysOfCode, criando uma página inicial utilizando HTML e CSS.
 
-**Link do projeto:** https://optimustech-rho.vercel.app/
+[Link do projeto](https://optimustech-rho.vercel.app/)
+
+### Tecnologias utilizadas
+
+- HTML
+- CSS
